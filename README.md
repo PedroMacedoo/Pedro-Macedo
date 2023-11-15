@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1000&color=FFFFFF&width=435&lines=Hi+there+my+name+is+Daniel+Sousa👋)](https://git.io/typing-svg)
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,kotlin,c,js,nodejs,html,vscode,idea,linux,postgres,express,bash,java,latex,arduino,gradle,postman&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=python,kotlin,c,js,nodejs,html,vscode,idea,linux,postgres,express,bash,java,arduino,gradle,react,typescript,postman&perline=7"/>
 </div>
 
 <br>
