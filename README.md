@@ -8,8 +8,8 @@
 <br>
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro Macedo  &theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMacedo  &theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DanielSousa01&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PedroMacedo&show_icons=true&theme=tokyonight"/>
 
 </div>
