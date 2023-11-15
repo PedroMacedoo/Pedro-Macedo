@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMacedo  &theme=tokyonight"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedro%20Macedo&theme=ocean-gradient&border_radius=10)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=PedroMacedo&show_icons=true&theme=tokyonight"/>
 
